@@ -1,5 +1,5 @@
 /**
- * Coordinate: Stores X and Y. Pretty dumb, but it's packaged,
+ * Coordinates: Stores X and Y. Pretty dumb, but it's packaged,
  * which is the right way to think about it.
  */
 function Coordinates(x, y) {
